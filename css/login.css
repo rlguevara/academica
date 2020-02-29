@@ -1,0 +1,25 @@
+#logo {
+  position: absolute;
+  z-index: 100;
+  left: 27px;
+  top: 15px;
+  width: 108px;
+  height: 96px;
+}
+#academica {
+  font-family: "Lucida Console", Monaco, monospace;
+  font-size: 44px;
+  font-weight: bolder;
+  color: #666;
+  position: absolute;
+  z-index: 100;
+  left: 262px;
+  top: 56px;
+  font-style: italic;
+}
+#form1 {
+  position: absolute;
+  z-index: 100;
+  left: 595px;
+  top: 397px;
+}
